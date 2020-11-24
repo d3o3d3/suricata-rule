@@ -1,0 +1,552 @@
+11/24/2020-08:48:33.645984  [**] [1:10067:1] nate.com tls access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.111.128:35634 -> 203.226.255.11:443
+11/24/2020-08:48:33.650596  [**] [1:10067:1] nate.com tls access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.111.128:35636 -> 203.226.255.11:443
+11/24/2020-08:48:33.651233  [**] [1:10067:1] nate.com tls access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.111.128:35638 -> 203.226.255.11:443
+11/24/2020-08:48:33.657059  [**] [1:10067:1] nate.com tls access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.111.128:35642 -> 203.226.255.11:443
+11/24/2020-08:48:33.657426  [**] [1:10067:1] nate.com tls access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.111.128:35640 -> 203.226.255.11:443
+11/24/2020-08:48:33.680880  [**] [1:10067:1] nate.com tls access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.111.128:37910 -> 120.50.132.112:443
+11/24/2020-08:48:33.683348  [**] [1:10067:1] nate.com tls access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.111.128:37912 -> 120.50.132.112:443
+11/24/2020-08:48:34.003290  [**] [1:10067:1] nate.com tls access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.111.128:45786 -> 203.226.255.7:443
+11/24/2020-08:48:35.508232  [**] [1:10067:1] nate.com tls access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.111.128:56084 -> 211.234.242.149:443
+11/24/2020-08:48:48.928626  [**] [1:10067:1] nate.com tls access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.111.128:37924 -> 120.50.132.112:443
+11/24/2020-08:48:51.328111  [**] [1:10067:1] nate.com tls access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.111.128:37922 -> 120.50.132.112:443
+11/24/2020-08:48:59.020152  [**] [1:10052:1] google.com tls access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.111.128:55346 -> 172.217.163.228:443
+11/24/2020-08:48:59.142260  [**] [1:10052:1] google.com tls access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.111.128:55348 -> 172.217.163.228:443
+11/24/2020-08:48:59.243058  [**] [1:10052:1] google.com tls access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.111.128:55350 -> 172.217.163.228:443
+11/24/2020-08:49:01.286260  [**] [1:10051:1] naver.com tls access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.111.128:32876 -> 223.130.195.200:443
+11/24/2020-08:49:02.097084  [**] [1:10051:1] naver.com tls access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.111.128:53340 -> 210.89.168.139:443
+11/24/2020-08:49:02.113212  [**] [1:10051:1] naver.com tls access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.111.128:52266 -> 210.89.168.33:443
+11/24/2020-08:49:02.126974  [**] [1:10051:1] naver.com tls access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.111.128:35142 -> 210.89.168.65:443
+11/24/2020-08:49:02.213389  [**] [1:10051:1] naver.com tls access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.111.128:53156 -> 110.93.147.5:443
+11/24/2020-08:49:02.327560  [**] [1:10051:1] naver.com tls access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.111.128:50850 -> 210.89.172.40:443
+11/24/2020-08:49:04.161170  [**] [1:10052:1] google.com tls access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.111.128:55380 -> 172.217.163.228:443
+11/24/2020-08:49:05.312533  [**] [1:10052:1] google.com tls access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.111.128:33000 -> 216.58.199.100:443
+11/24/2020-08:49:05.894590  [**] [1:10052:1] google.com tls access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.111.128:42506 -> 216.58.199.99:443
+11/24/2020-08:49:06.475137  [**] [1:10052:1] google.com tls access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.111.128:56132 -> 216.58.199.98:443
+11/24/2020-08:49:11.179706  [**] [1:10019:1] danawa.com access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.111.128:44240 -> 119.205.194.11:80
+11/24/2020-08:49:11.269240  [**] [1:10019:1] danawa.com access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.111.128:44240 -> 119.205.194.11:80
+11/24/2020-08:49:11.271253  [**] [1:10019:1] danawa.com access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.111.128:44242 -> 119.205.194.11:80
+11/24/2020-08:49:11.279014  [**] [1:10019:1] danawa.com access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.111.128:44248 -> 119.205.194.11:80
+11/24/2020-08:49:11.279224  [**] [1:10019:1] danawa.com access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.111.128:44254 -> 119.205.194.11:80
+11/24/2020-08:49:11.279105  [**] [1:10019:1] danawa.com access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.111.128:44252 -> 119.205.194.11:80
+11/24/2020-08:49:11.281898  [**] [1:10019:1] danawa.com access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.111.128:44246 -> 119.205.194.11:80
+11/24/2020-08:49:11.290420  [**] [1:10019:1] danawa.com access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.111.128:44242 -> 119.205.194.11:80
+11/24/2020-08:49:11.290963  [**] [1:10019:1] danawa.com access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.111.128:44250 -> 119.205.194.11:80
+11/24/2020-08:49:11.290479  [**] [1:10019:1] danawa.com access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.111.128:44244 -> 119.205.194.11:80
+11/24/2020-08:49:11.295875  [**] [1:10019:1] danawa.com access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.111.128:44240 -> 119.205.194.11:80
+11/24/2020-08:49:11.300603  [**] [1:10019:1] danawa.com access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.111.128:44248 -> 119.205.194.11:80
+11/24/2020-08:49:11.325761  [**] [1:10019:1] danawa.com access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.111.128:51952 -> 183.111.27.156:80
+11/24/2020-08:49:11.327432  [**] [1:10019:1] danawa.com access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.111.128:39154 -> 14.0.113.207:80
+11/24/2020-08:49:11.329906  [**] [1:10019:1] danawa.com access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.111.128:39152 -> 14.0.113.207:80
+11/24/2020-08:49:11.336720  [**] [1:10019:1] danawa.com access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.111.128:39156 -> 14.0.113.207:80
+11/24/2020-08:49:11.341760  [**] [1:10019:1] danawa.com access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.111.128:39150 -> 14.0.113.207:80
+11/24/2020-08:49:11.363686  [**] [1:10019:1] danawa.com access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.111.128:39154 -> 14.0.113.207:80
+11/24/2020-08:49:11.369663  [**] [1:10019:1] danawa.com access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.111.128:44266 -> 119.205.194.11:80
+11/24/2020-08:49:11.381060  [**] [1:10019:1] danawa.com access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.111.128:39160 -> 14.0.113.207:80
+11/24/2020-08:49:11.401465  [**] [1:10019:1] danawa.com access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.111.128:39162 -> 14.0.113.207:80
+11/24/2020-08:49:11.424007  [**] [1:10019:1] danawa.com access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.111.128:39150 -> 14.0.113.207:80
+11/24/2020-08:49:11.471561  [**] [1:10019:1] danawa.com access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.111.128:39156 -> 14.0.113.207:80
+11/24/2020-08:49:11.527655  [**] [1:10019:1] danawa.com access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.111.128:39152 -> 14.0.113.207:80
+11/24/2020-08:49:11.527707  [**] [1:10019:1] danawa.com access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.111.128:39154 -> 14.0.113.207:80
+11/24/2020-08:49:11.546991  [**] [1:10019:1] danawa.com access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.111.128:44244 -> 119.205.194.11:80
+11/24/2020-08:49:11.547061  [**] [1:10019:1] danawa.com access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.111.128:44248 -> 119.205.194.11:80
+11/24/2020-08:49:11.547074  [**] [1:10019:1] danawa.com access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.111.128:44252 -> 119.205.194.11:80
+11/24/2020-08:49:11.547213  [**] [1:10019:1] danawa.com access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.111.128:44246 -> 119.205.194.11:80
+11/24/2020-08:49:11.547330  [**] [1:10019:1] danawa.com access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.111.128:44242 -> 119.205.194.11:80
+11/24/2020-08:49:11.546933  [**] [1:10019:1] danawa.com access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.111.128:44250 -> 119.205.194.11:80
+11/24/2020-08:49:11.547493  [**] [1:10019:1] danawa.com access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.111.128:39150 -> 14.0.113.207:80
+11/24/2020-08:49:11.564253  [**] [1:10019:1] danawa.com access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.111.128:44266 -> 119.205.194.11:80
+11/24/2020-08:49:11.565715  [**] [1:10019:1] danawa.com access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.111.128:39162 -> 14.0.113.207:80
+11/24/2020-08:49:11.576964  [**] [1:10019:1] danawa.com access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.111.128:51968 -> 183.111.27.156:80
+11/24/2020-08:49:11.577739  [**] [1:10019:1] danawa.com access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.111.128:51970 -> 183.111.27.156:80
+11/24/2020-08:49:11.578067  [**] [1:10019:1] danawa.com access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.111.128:51976 -> 183.111.27.156:80
+11/24/2020-08:49:11.584678  [**] [1:10019:1] danawa.com access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.111.128:39156 -> 14.0.113.207:80
+11/24/2020-08:49:11.585869  [**] [1:10019:1] danawa.com access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.111.128:39160 -> 14.0.113.207:80
+11/24/2020-08:49:11.586690  [**] [1:10019:1] danawa.com access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.111.128:51978 -> 183.111.27.156:80
+11/24/2020-08:49:11.586851  [**] [1:10019:1] danawa.com access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.111.128:51972 -> 183.111.27.156:80
+11/24/2020-08:49:11.586998  [**] [1:10019:1] danawa.com access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.111.128:51974 -> 183.111.27.156:80
+11/24/2020-08:49:11.615899  [**] [1:10019:1] danawa.com access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.111.128:44284 -> 119.205.194.11:80
+11/24/2020-08:49:11.615944  [**] [1:10019:1] danawa.com access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.111.128:39152 -> 14.0.113.207:80
+11/24/2020-08:49:11.631760  [**] [1:10019:1] danawa.com access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.111.128:44248 -> 119.205.194.11:80
+11/24/2020-08:49:11.631613  [**] [1:10019:1] danawa.com access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.111.128:44242 -> 119.205.194.11:80
+11/24/2020-08:49:11.631673  [**] [1:10019:1] danawa.com access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.111.128:44252 -> 119.205.194.11:80
+11/24/2020-08:49:11.631599  [**] [1:10019:1] danawa.com access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.111.128:44250 -> 119.205.194.11:80
+11/24/2020-08:49:11.636910  [**] [1:10019:1] danawa.com access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.111.128:44244 -> 119.205.194.11:80
+11/24/2020-08:49:11.636958  [**] [1:10019:1] danawa.com access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.111.128:39150 -> 14.0.113.207:80
+11/24/2020-08:49:11.664183  [**] [1:10019:1] danawa.com access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.111.128:39154 -> 14.0.113.207:80
+11/24/2020-08:49:11.677516  [**] [1:10019:1] danawa.com access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.111.128:44246 -> 119.205.194.11:80
+11/24/2020-08:49:11.681647  [**] [1:10019:1] danawa.com access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.111.128:39156 -> 14.0.113.207:80
+11/24/2020-08:49:11.681892  [**] [1:10019:1] danawa.com access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.111.128:39162 -> 14.0.113.207:80
+11/24/2020-08:49:11.784619  [**] [1:10019:1] danawa.com access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.111.128:39152 -> 14.0.113.207:80
+11/24/2020-08:49:11.810861  [**] [1:10019:1] danawa.com access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.111.128:39150 -> 14.0.113.207:80
+11/24/2020-08:49:11.811035  [**] [1:10019:1] danawa.com access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.111.128:51982 -> 183.111.27.156:80
+11/24/2020-08:49:11.815512  [**] [1:10019:1] danawa.com access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.111.128:39160 -> 14.0.113.207:80
+11/24/2020-08:49:11.837877  [**] [1:10019:1] danawa.com access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.111.128:44242 -> 119.205.194.11:80
+11/24/2020-08:49:11.838109  [**] [1:10019:1] danawa.com access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.111.128:39160 -> 14.0.113.207:80
+11/24/2020-08:49:11.838395  [**] [1:10019:1] danawa.com access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.111.128:39154 -> 14.0.113.207:80
+11/24/2020-08:49:11.838588  [**] [1:10019:1] danawa.com access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.111.128:39150 -> 14.0.113.207:80
+11/24/2020-08:49:11.838849  [**] [1:10019:1] danawa.com access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.111.128:39156 -> 14.0.113.207:80
+11/24/2020-08:49:11.856821  [**] [1:10019:1] danawa.com access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.111.128:39152 -> 14.0.113.207:80
+11/24/2020-08:49:11.857301  [**] [1:10019:1] danawa.com access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.111.128:39154 -> 14.0.113.207:80
+11/24/2020-08:49:11.865078  [**] [1:10019:1] danawa.com access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.111.128:39160 -> 14.0.113.207:80
+11/24/2020-08:49:11.865011  [**] [1:10019:1] danawa.com access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.111.128:39162 -> 14.0.113.207:80
+11/24/2020-08:49:11.867937  [**] [1:10019:1] danawa.com access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.111.128:39156 -> 14.0.113.207:80
+11/24/2020-08:49:11.868033  [**] [1:10019:1] danawa.com access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.111.128:39150 -> 14.0.113.207:80
+11/24/2020-08:49:11.871912  [**] [1:10019:1] danawa.com access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.111.128:39154 -> 14.0.113.207:80
+11/24/2020-08:49:11.876955  [**] [1:10019:1] danawa.com access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.111.128:39152 -> 14.0.113.207:80
+11/24/2020-08:49:11.882059  [**] [1:10019:1] danawa.com access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.111.128:39150 -> 14.0.113.207:80
+11/24/2020-08:49:11.882112  [**] [1:10019:1] danawa.com access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.111.128:39162 -> 14.0.113.207:80
+11/24/2020-08:49:11.882707  [**] [1:10019:1] danawa.com access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.111.128:39156 -> 14.0.113.207:80
+11/24/2020-08:49:11.883222  [**] [1:10019:1] danawa.com access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.111.128:39160 -> 14.0.113.207:80
+11/24/2020-08:49:11.900786  [**] [1:10019:1] danawa.com access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.111.128:39154 -> 14.0.113.207:80
+11/24/2020-08:49:11.903884  [**] [1:10019:1] danawa.com access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.111.128:39152 -> 14.0.113.207:80
+11/24/2020-08:49:11.914991  [**] [1:10019:1] danawa.com access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.111.128:39162 -> 14.0.113.207:80
+11/24/2020-08:49:11.915458  [**] [1:10019:1] danawa.com access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.111.128:39150 -> 14.0.113.207:80
+11/24/2020-08:49:11.915620  [**] [1:10019:1] danawa.com access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.111.128:39156 -> 14.0.113.207:80
+11/24/2020-08:49:11.917330  [**] [1:10019:1] danawa.com access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.111.128:39160 -> 14.0.113.207:80
+11/24/2020-08:49:11.918433  [**] [1:10019:1] danawa.com access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.111.128:39152 -> 14.0.113.207:80
+11/24/2020-08:49:11.922117  [**] [1:10019:1] danawa.com access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.111.128:39154 -> 14.0.113.207:80
+11/24/2020-08:49:11.927429  [**] [1:10019:1] danawa.com access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.111.128:39150 -> 14.0.113.207:80
+11/24/2020-08:49:11.927505  [**] [1:10019:1] danawa.com access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.111.128:39152 -> 14.0.113.207:80
+11/24/2020-08:49:11.927458  [**] [1:10019:1] danawa.com access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.111.128:39160 -> 14.0.113.207:80
+11/24/2020-08:49:11.927339  [**] [1:10019:1] danawa.com access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.111.128:39156 -> 14.0.113.207:80
+11/24/2020-08:49:11.927405  [**] [1:10019:1] danawa.com access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.111.128:39162 -> 14.0.113.207:80
+11/24/2020-08:49:11.943442  [**] [1:10019:1] danawa.com access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.111.128:39160 -> 14.0.113.207:80
+11/24/2020-08:49:11.944867  [**] [1:10019:1] danawa.com access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.111.128:39154 -> 14.0.113.207:80
+11/24/2020-08:49:11.945074  [**] [1:10019:1] danawa.com access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.111.128:39150 -> 14.0.113.207:80
+11/24/2020-08:49:11.945915  [**] [1:10019:1] danawa.com access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.111.128:39162 -> 14.0.113.207:80
+11/24/2020-08:49:11.945848  [**] [1:10019:1] danawa.com access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.111.128:39152 -> 14.0.113.207:80
+11/24/2020-08:49:11.946711  [**] [1:10019:1] danawa.com access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.111.128:39156 -> 14.0.113.207:80
+11/24/2020-08:49:11.952960  [**] [1:10019:1] danawa.com access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.111.128:39154 -> 14.0.113.207:80
+11/24/2020-08:49:11.953892  [**] [1:10069:1] danawa.com tls access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.111.128:56720 -> 14.0.113.207:443
+11/24/2020-08:49:11.956884  [**] [1:10019:1] danawa.com access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.111.128:39152 -> 14.0.113.207:80
+11/24/2020-08:49:11.957586  [**] [1:10019:1] danawa.com access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.111.128:39160 -> 14.0.113.207:80
+11/24/2020-08:49:11.958165  [**] [1:10019:1] danawa.com access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.111.128:39150 -> 14.0.113.207:80
+11/24/2020-08:49:11.958307  [**] [1:10019:1] danawa.com access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.111.128:39156 -> 14.0.113.207:80
+11/24/2020-08:49:11.960111  [**] [1:10019:1] danawa.com access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.111.128:39162 -> 14.0.113.207:80
+11/24/2020-08:49:11.966033  [**] [1:10019:1] danawa.com access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.111.128:39154 -> 14.0.113.207:80
+11/24/2020-08:49:11.970693  [**] [1:10019:1] danawa.com access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.111.128:39152 -> 14.0.113.207:80
+11/24/2020-08:49:11.971273  [**] [1:10019:1] danawa.com access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.111.128:39150 -> 14.0.113.207:80
+11/24/2020-08:49:11.971925  [**] [1:10019:1] danawa.com access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.111.128:39156 -> 14.0.113.207:80
+11/24/2020-08:49:11.971967  [**] [1:10019:1] danawa.com access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.111.128:39162 -> 14.0.113.207:80
+11/24/2020-08:49:11.974449  [**] [1:10019:1] danawa.com access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.111.128:39154 -> 14.0.113.207:80
+11/24/2020-08:49:11.978000  [**] [1:10019:1] danawa.com access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.111.128:39150 -> 14.0.113.207:80
+11/24/2020-08:49:11.978879  [**] [1:10019:1] danawa.com access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.111.128:39152 -> 14.0.113.207:80
+11/24/2020-08:49:11.981337  [**] [1:10019:1] danawa.com access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.111.128:39156 -> 14.0.113.207:80
+11/24/2020-08:49:11.983402  [**] [1:10019:1] danawa.com access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.111.128:39162 -> 14.0.113.207:80
+11/24/2020-08:49:11.985956  [**] [1:10019:1] danawa.com access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.111.128:39154 -> 14.0.113.207:80
+11/24/2020-08:49:12.015341  [**] [1:10019:1] danawa.com access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.111.128:39160 -> 14.0.113.207:80
+11/24/2020-08:49:12.057379  [**] [1:10019:1] danawa.com access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.111.128:39156 -> 14.0.113.207:80
+11/24/2020-08:49:12.081260  [**] [1:10019:1] danawa.com access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.111.128:39150 -> 14.0.113.207:80
+11/24/2020-08:49:12.082481  [**] [1:10019:1] danawa.com access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.111.128:39154 -> 14.0.113.207:80
+11/24/2020-08:49:12.132524  [**] [1:10019:1] danawa.com access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.111.128:39160 -> 14.0.113.207:80
+11/24/2020-08:49:12.136344  [**] [1:10019:1] danawa.com access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.111.128:39154 -> 14.0.113.207:80
+11/24/2020-08:49:12.136852  [**] [1:10019:1] danawa.com access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.111.128:39150 -> 14.0.113.207:80
+11/24/2020-08:49:12.137240  [**] [1:10019:1] danawa.com access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.111.128:39156 -> 14.0.113.207:80
+11/24/2020-08:49:12.158913  [**] [1:10019:1] danawa.com access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.111.128:39154 -> 14.0.113.207:80
+11/24/2020-08:49:12.159377  [**] [1:10019:1] danawa.com access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.111.128:39150 -> 14.0.113.207:80
+11/24/2020-08:49:12.164081  [**] [1:10019:1] danawa.com access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.111.128:39160 -> 14.0.113.207:80
+11/24/2020-08:49:12.178114  [**] [1:10019:1] danawa.com access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.111.128:39154 -> 14.0.113.207:80
+11/24/2020-08:49:12.182818  [**] [1:10019:1] danawa.com access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.111.128:39160 -> 14.0.113.207:80
+11/24/2020-08:49:12.196780  [**] [1:10019:1] danawa.com access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.111.128:39150 -> 14.0.113.207:80
+11/24/2020-08:49:12.197520  [**] [1:10019:1] danawa.com access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.111.128:39156 -> 14.0.113.207:80
+11/24/2020-08:49:12.199075  [**] [1:10019:1] danawa.com access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.111.128:39154 -> 14.0.113.207:80
+11/24/2020-08:49:12.212162  [**] [1:10019:1] danawa.com access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.111.128:39160 -> 14.0.113.207:80
+11/24/2020-08:49:12.220341  [**] [1:10019:1] danawa.com access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.111.128:39154 -> 14.0.113.207:80
+11/24/2020-08:49:12.220563  [**] [1:10019:1] danawa.com access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.111.128:39150 -> 14.0.113.207:80
+11/24/2020-08:49:12.226065  [**] [1:10019:1] danawa.com access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.111.128:39162 -> 14.0.113.207:80
+11/24/2020-08:49:12.235213  [**] [1:10019:1] danawa.com access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.111.128:39156 -> 14.0.113.207:80
+11/24/2020-08:49:12.237691  [**] [1:10019:1] danawa.com access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.111.128:39154 -> 14.0.113.207:80
+11/24/2020-08:49:12.238696  [**] [1:10019:1] danawa.com access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.111.128:39152 -> 14.0.113.207:80
+11/24/2020-08:49:12.239892  [**] [1:10019:1] danawa.com access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.111.128:39160 -> 14.0.113.207:80
+11/24/2020-08:49:12.247205  [**] [1:10019:1] danawa.com access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.111.128:39150 -> 14.0.113.207:80
+11/24/2020-08:49:12.250057  [**] [1:10019:1] danawa.com access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.111.128:39154 -> 14.0.113.207:80
+11/24/2020-08:49:12.259714  [**] [1:10019:1] danawa.com access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.111.128:39160 -> 14.0.113.207:80
+11/24/2020-08:49:12.262802  [**] [1:10019:1] danawa.com access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.111.128:39156 -> 14.0.113.207:80
+11/24/2020-08:49:12.278456  [**] [1:10019:1] danawa.com access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.111.128:39154 -> 14.0.113.207:80
+11/24/2020-08:49:12.281181  [**] [1:10019:1] danawa.com access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.111.128:39152 -> 14.0.113.207:80
+11/24/2020-08:49:12.281530  [**] [1:10019:1] danawa.com access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.111.128:39150 -> 14.0.113.207:80
+11/24/2020-08:49:12.281674  [**] [1:10019:1] danawa.com access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.111.128:39160 -> 14.0.113.207:80
+11/24/2020-08:49:12.289988  [**] [1:10019:1] danawa.com access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.111.128:39156 -> 14.0.113.207:80
+11/24/2020-08:49:12.302752  [**] [1:10019:1] danawa.com access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.111.128:39162 -> 14.0.113.207:80
+11/24/2020-08:49:12.303090  [**] [1:10019:1] danawa.com access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.111.128:39154 -> 14.0.113.207:80
+11/24/2020-08:49:12.303805  [**] [1:10019:1] danawa.com access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.111.128:39160 -> 14.0.113.207:80
+11/24/2020-08:49:12.326433  [**] [1:10019:1] danawa.com access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.111.128:39154 -> 14.0.113.207:80
+11/24/2020-08:49:12.327305  [**] [1:10019:1] danawa.com access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.111.128:39152 -> 14.0.113.207:80
+11/24/2020-08:49:12.327565  [**] [1:10019:1] danawa.com access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.111.128:39150 -> 14.0.113.207:80
+11/24/2020-08:49:12.327692  [**] [1:10019:1] danawa.com access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.111.128:39156 -> 14.0.113.207:80
+11/24/2020-08:49:12.327804  [**] [1:10019:1] danawa.com access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.111.128:39160 -> 14.0.113.207:80
+11/24/2020-08:49:12.339154  [**] [1:10019:1] danawa.com access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.111.128:39154 -> 14.0.113.207:80
+11/24/2020-08:49:12.341760  [**] [1:10019:1] danawa.com access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.111.128:39162 -> 14.0.113.207:80
+11/24/2020-08:49:12.342372  [**] [1:10019:1] danawa.com access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.111.128:39160 -> 14.0.113.207:80
+11/24/2020-08:49:12.349055  [**] [1:10019:1] danawa.com access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.111.128:39152 -> 14.0.113.207:80
+11/24/2020-08:49:12.349625  [**] [1:10019:1] danawa.com access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.111.128:39150 -> 14.0.113.207:80
+11/24/2020-08:49:12.350492  [**] [1:10019:1] danawa.com access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.111.128:39156 -> 14.0.113.207:80
+11/24/2020-08:49:12.360688  [**] [1:10019:1] danawa.com access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.111.128:39154 -> 14.0.113.207:80
+11/24/2020-08:49:12.380417  [**] [1:10019:1] danawa.com access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.111.128:39150 -> 14.0.113.207:80
+11/24/2020-08:49:12.381257  [**] [1:10019:1] danawa.com access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.111.128:39160 -> 14.0.113.207:80
+11/24/2020-08:49:12.381075  [**] [1:10019:1] danawa.com access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.111.128:39156 -> 14.0.113.207:80
+11/24/2020-08:49:12.386429  [**] [1:10019:1] danawa.com access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.111.128:39154 -> 14.0.113.207:80
+11/24/2020-08:49:12.397894  [**] [1:10019:1] danawa.com access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.111.128:39162 -> 14.0.113.207:80
+11/24/2020-08:49:12.398063  [**] [1:10019:1] danawa.com access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.111.128:39152 -> 14.0.113.207:80
+11/24/2020-08:49:12.398573  [**] [1:10019:1] danawa.com access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.111.128:39150 -> 14.0.113.207:80
+11/24/2020-08:49:12.399767  [**] [1:10019:1] danawa.com access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.111.128:39160 -> 14.0.113.207:80
+11/24/2020-08:49:12.405893  [**] [1:10019:1] danawa.com access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.111.128:44746 -> 13.124.186.154:80
+11/24/2020-08:49:12.413282  [**] [1:10019:1] danawa.com access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.111.128:39154 -> 14.0.113.207:80
+11/24/2020-08:49:12.421535  [**] [1:10019:1] danawa.com access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.111.128:39160 -> 14.0.113.207:80
+11/24/2020-08:49:12.423394  [**] [1:10019:1] danawa.com access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.111.128:39156 -> 14.0.113.207:80
+11/24/2020-08:49:12.425812  [**] [1:10019:1] danawa.com access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.111.128:39162 -> 14.0.113.207:80
+11/24/2020-08:49:12.425959  [**] [1:10019:1] danawa.com access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.111.128:39152 -> 14.0.113.207:80
+11/24/2020-08:49:12.426136  [**] [1:10019:1] danawa.com access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.111.128:39150 -> 14.0.113.207:80
+11/24/2020-08:49:12.436723  [**] [1:10019:1] danawa.com access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.111.128:39154 -> 14.0.113.207:80
+11/24/2020-08:49:12.436990  [**] [1:10019:1] danawa.com access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.111.128:39160 -> 14.0.113.207:80
+11/24/2020-08:49:12.451051  [**] [1:10019:1] danawa.com access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.111.128:39154 -> 14.0.113.207:80
+11/24/2020-08:49:12.456348  [**] [1:10019:1] danawa.com access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.111.128:39162 -> 14.0.113.207:80
+11/24/2020-08:49:12.456742  [**] [1:10019:1] danawa.com access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.111.128:39152 -> 14.0.113.207:80
+11/24/2020-08:49:12.457111  [**] [1:10019:1] danawa.com access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.111.128:39160 -> 14.0.113.207:80
+11/24/2020-08:49:12.458646  [**] [1:10019:1] danawa.com access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.111.128:39156 -> 14.0.113.207:80
+11/24/2020-08:49:12.463676  [**] [1:10019:1] danawa.com access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.111.128:47534 -> 117.52.158.33:80
+11/24/2020-08:49:12.468004  [**] [1:10019:1] danawa.com access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.111.128:51986 -> 183.111.27.156:80
+11/24/2020-08:49:12.479338  [**] [1:10019:1] danawa.com access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.111.128:51988 -> 183.111.27.156:80
+11/24/2020-08:49:12.480176  [**] [1:10019:1] danawa.com access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.111.128:47534 -> 117.52.158.33:80
+11/24/2020-08:49:12.485709  [**] [1:10019:1] danawa.com access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.111.128:51990 -> 183.111.27.156:80
+11/24/2020-08:49:12.487756  [**] [1:10019:1] danawa.com access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.111.128:47534 -> 117.52.158.33:80
+11/24/2020-08:49:12.490616  [**] [1:10019:1] danawa.com access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.111.128:51994 -> 183.111.27.156:80
+11/24/2020-08:49:12.504450  [**] [1:10019:1] danawa.com access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.111.128:52008 -> 183.111.27.156:80
+11/24/2020-08:49:12.506898  [**] [1:10019:1] danawa.com access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.111.128:52010 -> 183.111.27.156:80
+11/24/2020-08:49:12.525619  [**] [1:10019:1] danawa.com access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.111.128:47534 -> 117.52.158.33:80
+11/24/2020-08:49:12.525654  [**] [1:10019:1] danawa.com access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.111.128:47554 -> 117.52.158.33:80
+11/24/2020-08:49:12.528632  [**] [1:10019:1] danawa.com access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.111.128:52014 -> 183.111.27.156:80
+11/24/2020-08:49:12.532052  [**] [1:10019:1] danawa.com access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.111.128:47558 -> 117.52.158.33:80
+11/24/2020-08:49:12.536097  [**] [1:10019:1] danawa.com access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.111.128:47534 -> 117.52.158.33:80
+11/24/2020-08:49:12.545119  [**] [1:10001:1] naver.com access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.111.128:43328 -> 125.209.234.101:80
+11/24/2020-08:49:12.545119  [**] [1:10019:1] danawa.com access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.111.128:43328 -> 125.209.234.101:80
+11/24/2020-08:49:12.545815  [**] [1:10019:1] danawa.com access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.111.128:52018 -> 183.111.27.156:80
+11/24/2020-08:49:12.546607  [**] [1:10019:1] danawa.com access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.111.128:53694 -> 58.126.157.94:80
+11/24/2020-08:49:12.552228  [**] [1:10019:1] danawa.com access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.111.128:52020 -> 183.111.27.156:80
+11/24/2020-08:49:12.554831  [**] [1:10019:1] danawa.com access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.111.128:52022 -> 183.111.27.156:80
+11/24/2020-08:49:12.560230  [**] [1:10019:1] danawa.com access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.111.128:52024 -> 183.111.27.156:80
+11/24/2020-08:49:12.562290  [**] [1:10019:1] danawa.com access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.111.128:52026 -> 183.111.27.156:80
+11/24/2020-08:49:12.573909  [**] [1:10019:1] danawa.com access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.111.128:52030 -> 183.111.27.156:80
+11/24/2020-08:49:12.574556  [**] [1:10019:1] danawa.com access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.111.128:52028 -> 183.111.27.156:80
+11/24/2020-08:49:12.577134  [**] [1:10019:1] danawa.com access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.111.128:52032 -> 183.111.27.156:80
+11/24/2020-08:49:12.584868  [**] [1:10019:1] danawa.com access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.111.128:52036 -> 183.111.27.156:80
+11/24/2020-08:49:12.587290  [**] [1:10019:1] danawa.com access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.111.128:52034 -> 183.111.27.156:80
+11/24/2020-08:49:12.590278  [**] [1:10019:1] danawa.com access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.111.128:52038 -> 183.111.27.156:80
+11/24/2020-08:49:12.592776  [**] [1:10019:1] danawa.com access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.111.128:52040 -> 183.111.27.156:80
+11/24/2020-08:49:12.602021  [**] [1:10019:1] danawa.com access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.111.128:52042 -> 183.111.27.156:80
+11/24/2020-08:49:12.606821  [**] [1:10019:1] danawa.com access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.111.128:52044 -> 183.111.27.156:80
+11/24/2020-08:49:12.607748  [**] [1:10019:1] danawa.com access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.111.128:52046 -> 183.111.27.156:80
+11/24/2020-08:49:12.620691  [**] [1:10019:1] danawa.com access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.111.128:52048 -> 183.111.27.156:80
+11/24/2020-08:49:12.631007  [**] [1:10019:1] danawa.com access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.111.128:39152 -> 14.0.113.207:80
+11/24/2020-08:49:12.632337  [**] [1:10019:1] danawa.com access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.111.128:39162 -> 14.0.113.207:80
+11/24/2020-08:49:12.632496  [**] [1:10019:1] danawa.com access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.111.128:39150 -> 14.0.113.207:80
+11/24/2020-08:49:12.637353  [**] [1:10019:1] danawa.com access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.111.128:39154 -> 14.0.113.207:80
+11/24/2020-08:49:12.714974  [**] [1:10019:1] danawa.com access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.111.128:39162 -> 14.0.113.207:80
+11/24/2020-08:49:12.715854  [**] [1:10019:1] danawa.com access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.111.128:39152 -> 14.0.113.207:80
+11/24/2020-08:49:12.718142  [**] [1:10019:1] danawa.com access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.111.128:39150 -> 14.0.113.207:80
+11/24/2020-08:49:12.721737  [**] [1:10019:1] danawa.com access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.111.128:39154 -> 14.0.113.207:80
+11/24/2020-08:49:12.739874  [**] [1:10019:1] danawa.com access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.111.128:39156 -> 14.0.113.207:80
+11/24/2020-08:49:12.739977  [**] [1:10019:1] danawa.com access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.111.128:39160 -> 14.0.113.207:80
+11/24/2020-08:49:12.764062  [**] [1:10019:1] danawa.com access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.111.128:44746 -> 13.124.186.154:80
+11/24/2020-08:49:12.868189  [**] [1:10019:1] danawa.com access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.111.128:33616 -> 58.126.157.95:80
+11/24/2020-08:49:12.871818  [**] [1:10019:1] danawa.com access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.111.128:47534 -> 117.52.158.33:80
+11/24/2020-08:49:12.884484  [**] [1:10019:1] danawa.com access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.111.128:52050 -> 183.111.27.156:80
+11/24/2020-08:49:12.888324  [**] [1:10019:1] danawa.com access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.111.128:47534 -> 117.52.158.33:80
+11/24/2020-08:49:12.896606  [**] [1:10019:1] danawa.com access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.111.128:47558 -> 117.52.158.33:80
+11/24/2020-08:49:12.902238  [**] [1:10019:1] danawa.com access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.111.128:47554 -> 117.52.158.33:80
+11/24/2020-08:49:12.902654  [**] [1:10019:1] danawa.com access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.111.128:39152 -> 14.0.113.207:80
+11/24/2020-08:49:12.915760  [**] [1:10019:1] danawa.com access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.111.128:52054 -> 183.111.27.156:80
+11/24/2020-08:49:12.915836  [**] [1:10019:1] danawa.com access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.111.128:52052 -> 183.111.27.156:80
+11/24/2020-08:49:12.927039  [**] [1:10019:1] danawa.com access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.111.128:47600 -> 117.52.158.33:80
+11/24/2020-08:49:12.929598  [**] [1:10019:1] danawa.com access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.111.128:52060 -> 183.111.27.156:80
+11/24/2020-08:49:12.930046  [**] [1:10019:1] danawa.com access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.111.128:52056 -> 183.111.27.156:80
+11/24/2020-08:49:12.934647  [**] [1:10019:1] danawa.com access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.111.128:47534 -> 117.52.158.33:80
+11/24/2020-08:49:12.934695  [**] [1:10019:1] danawa.com access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.111.128:47554 -> 117.52.158.33:80
+11/24/2020-08:49:12.939824  [**] [1:10019:1] danawa.com access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.111.128:52064 -> 183.111.27.156:80
+11/24/2020-08:49:12.965303  [**] [1:10019:1] danawa.com access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.111.128:47600 -> 117.52.158.33:80
+11/24/2020-08:49:12.952845  [**] [1:10019:1] danawa.com access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.111.128:52068 -> 183.111.27.156:80
+11/24/2020-08:49:12.953114  [**] [1:10019:1] danawa.com access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.111.128:47554 -> 117.52.158.33:80
+11/24/2020-08:49:12.959435  [**] [1:10019:1] danawa.com access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.111.128:47534 -> 117.52.158.33:80
+11/24/2020-08:49:12.962800  [**] [1:10019:1] danawa.com access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.111.128:47558 -> 117.52.158.33:80
+11/24/2020-08:49:12.970734  [**] [1:10019:1] danawa.com access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.111.128:52072 -> 183.111.27.156:80
+11/24/2020-08:49:12.971136  [**] [1:10019:1] danawa.com access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.111.128:52070 -> 183.111.27.156:80
+11/24/2020-08:49:12.971287  [**] [1:10019:1] danawa.com access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.111.128:52074 -> 183.111.27.156:80
+11/24/2020-08:49:12.984206  [**] [1:10019:1] danawa.com access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.111.128:47534 -> 117.52.158.33:80
+11/24/2020-08:49:12.992060  [**] [1:10019:1] danawa.com access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.111.128:47554 -> 117.52.158.33:80
+11/24/2020-08:49:12.995296  [**] [1:10019:1] danawa.com access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.111.128:52080 -> 183.111.27.156:80
+11/24/2020-08:49:12.995721  [**] [1:10019:1] danawa.com access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.111.128:52078 -> 183.111.27.156:80
+11/24/2020-08:49:12.996584  [**] [1:10019:1] danawa.com access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.111.128:52076 -> 183.111.27.156:80
+11/24/2020-08:49:13.002356  [**] [1:10019:1] danawa.com access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.111.128:47534 -> 117.52.158.33:80
+11/24/2020-08:49:13.030086  [**] [1:10019:1] danawa.com access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.111.128:47558 -> 117.52.158.33:80
+11/24/2020-08:49:13.037120  [**] [1:10019:1] danawa.com access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.111.128:47600 -> 117.52.158.33:80
+11/24/2020-08:49:13.046335  [**] [1:10019:1] danawa.com access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.111.128:52082 -> 183.111.27.156:80
+11/24/2020-08:49:13.047862  [**] [1:10019:1] danawa.com access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.111.128:52086 -> 183.111.27.156:80
+11/24/2020-08:49:13.049467  [**] [1:10019:1] danawa.com access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.111.128:52084 -> 183.111.27.156:80
+11/24/2020-08:49:13.062963  [**] [1:10069:1] danawa.com tls access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.111.128:39530 -> 119.205.194.17:443
+11/24/2020-08:49:27.898702  [**] [1:10064:1] ruliweb.com tls access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.111.128:41468 -> 103.24.8.4:443
+11/24/2020-08:49:28.035476  [**] [1:10064:1] ruliweb.com tls access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.111.128:33020 -> 103.24.8.22:443
+11/24/2020-08:49:28.074696  [**] [1:10064:1] ruliweb.com tls access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.111.128:51450 -> 103.24.8.18:443
+11/24/2020-08:49:28.090958  [**] [1:10064:1] ruliweb.com tls access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.111.128:33026 -> 103.24.8.22:443
+11/24/2020-08:49:28.133107  [**] [1:10064:1] ruliweb.com tls access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.111.128:56518 -> 103.24.8.17:443
+11/24/2020-08:49:28.178069  [**] [1:10064:1] ruliweb.com tls access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.111.128:54968 -> 103.24.8.19:443
+11/24/2020-08:49:28.201300  [**] [1:10064:1] ruliweb.com tls access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.111.128:36766 -> 103.24.8.11:443
+11/24/2020-08:49:28.589306  [**] [1:10064:1] ruliweb.com tls access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.111.128:54992 -> 103.24.8.19:443
+11/24/2020-08:49:30.233212  [**] [1:10052:1] google.com tls access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.111.128:56376 -> 216.58.199.98:443
+11/24/2020-08:49:30.301501  [**] [1:10064:1] ruliweb.com tls access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.111.128:55034 -> 103.24.8.19:443
+11/24/2020-08:49:32.353381  [**] [1:10054:1] daum.net tls access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.111.128:50296 -> 203.217.237.67:443
+11/24/2020-08:49:32.528527  [**] [1:10054:1] daum.net tls access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.111.128:49664 -> 203.133.166.16:443
+11/24/2020-08:49:32.531111  [**] [1:10054:1] daum.net tls access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.111.128:53004 -> 110.76.141.197:443
+11/24/2020-08:49:37.330206  [**] [1:10053:1] youtuebe.com tls access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.111.128:40074 -> 172.217.25.14:443
+11/24/2020-08:49:39.428027  [**] [1:10052:1] google.com tls access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.111.128:34622 -> 172.217.31.237:443
+11/24/2020-08:49:54.102744  [**] [1:10018:1] op.gg access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.111.128:48286 -> 1.201.138.24:80
+11/24/2020-08:49:54.193300  [**] [1:10018:1] op.gg access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.111.128:36300 -> 1.201.138.254:80
+11/24/2020-08:49:54.274029  [**] [1:10018:1] op.gg access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.111.128:40392 -> 175.207.14.89:80
+11/24/2020-08:49:54.279144  [**] [1:10018:1] op.gg access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.111.128:40394 -> 175.207.14.89:80
+11/24/2020-08:49:54.294129  [**] [1:10018:1] op.gg access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.111.128:40392 -> 175.207.14.89:80
+11/24/2020-08:49:54.315150  [**] [1:10018:1] op.gg access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.111.128:40394 -> 175.207.14.89:80
+11/24/2020-08:49:54.315286  [**] [1:10018:1] op.gg access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.111.128:53958 -> 175.207.14.130:80
+11/24/2020-08:49:54.328970  [**] [1:10018:1] op.gg access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.111.128:53954 -> 175.207.14.130:80
+11/24/2020-08:49:54.343718  [**] [1:10018:1] op.gg access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.111.128:53958 -> 175.207.14.130:80
+11/24/2020-08:49:54.346627  [**] [1:10018:1] op.gg access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.111.128:53956 -> 175.207.14.130:80
+11/24/2020-08:49:54.358682  [**] [1:10018:1] op.gg access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.111.128:53954 -> 175.207.14.130:80
+11/24/2020-08:49:54.361160  [**] [1:10018:1] op.gg access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.111.128:53958 -> 175.207.14.130:80
+11/24/2020-08:49:54.378899  [**] [1:10018:1] op.gg access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.111.128:41546 -> 23.53.225.247:80
+11/24/2020-08:49:54.379364  [**] [1:10018:1] op.gg access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.111.128:53954 -> 175.207.14.130:80
+11/24/2020-08:49:54.383795  [**] [1:10018:1] op.gg access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.111.128:53958 -> 175.207.14.130:80
+11/24/2020-08:49:54.384297  [**] [1:10018:1] op.gg access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.111.128:53956 -> 175.207.14.130:80
+11/24/2020-08:49:54.387429  [**] [1:10018:1] op.gg access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.111.128:53960 -> 175.207.14.130:80
+11/24/2020-08:49:54.389933  [**] [1:10018:1] op.gg access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.111.128:53950 -> 175.207.14.130:80
+11/24/2020-08:49:54.409764  [**] [1:10018:1] op.gg access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.111.128:53954 -> 175.207.14.130:80
+11/24/2020-08:49:54.410920  [**] [1:10018:1] op.gg access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.111.128:53960 -> 175.207.14.130:80
+11/24/2020-08:49:54.412431  [**] [1:10018:1] op.gg access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.111.128:53956 -> 175.207.14.130:80
+11/24/2020-08:49:54.413087  [**] [1:10018:1] op.gg access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.111.128:53958 -> 175.207.14.130:80
+11/24/2020-08:49:54.423606  [**] [1:10018:1] op.gg access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.111.128:40390 -> 175.207.14.89:80
+11/24/2020-08:49:54.423522  [**] [1:10018:1] op.gg access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.111.128:53952 -> 175.207.14.130:80
+11/24/2020-08:49:54.434443  [**] [1:10018:1] op.gg access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.111.128:53958 -> 175.207.14.130:80
+11/24/2020-08:49:54.434579  [**] [1:10018:1] op.gg access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.111.128:53954 -> 175.207.14.130:80
+11/24/2020-08:49:54.446528  [**] [1:10018:1] op.gg access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.111.128:40396 -> 175.207.14.89:80
+11/24/2020-08:49:54.460411  [**] [1:10018:1] op.gg access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.111.128:40390 -> 175.207.14.89:80
+11/24/2020-08:49:54.471973  [**] [1:10018:1] op.gg access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.111.128:40386 -> 175.207.14.89:80
+11/24/2020-08:49:54.481453  [**] [1:10018:1] op.gg access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.111.128:53960 -> 175.207.14.130:80
+11/24/2020-08:49:54.481526  [**] [1:10018:1] op.gg access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.111.128:53956 -> 175.207.14.130:80
+11/24/2020-08:49:54.488207  [**] [1:10018:1] op.gg access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.111.128:40394 -> 175.207.14.89:80
+11/24/2020-08:49:54.489150  [**] [1:10018:1] op.gg access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.111.128:40388 -> 175.207.14.89:80
+11/24/2020-08:49:54.489369  [**] [1:10018:1] op.gg access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.111.128:40396 -> 175.207.14.89:80
+11/24/2020-08:49:54.492491  [**] [1:10018:1] op.gg access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.111.128:40390 -> 175.207.14.89:80
+11/24/2020-08:49:54.498945  [**] [1:10018:1] op.gg access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.111.128:40392 -> 175.207.14.89:80
+11/24/2020-08:49:54.523209  [**] [1:10018:1] op.gg access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.111.128:43008 -> 151.139.128.11:80
+11/24/2020-08:49:54.537921  [**] [1:10018:1] op.gg access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.111.128:53954 -> 175.207.14.130:80
+11/24/2020-08:49:54.537984  [**] [1:10018:1] op.gg access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.111.128:53950 -> 175.207.14.130:80
+11/24/2020-08:49:54.552660  [**] [1:10018:1] op.gg access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.111.128:53952 -> 175.207.14.130:80
+11/24/2020-08:49:54.579451  [**] [1:10068:1] op.gg tls access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.111.128:41786 -> 14.0.113.208:443
+11/24/2020-08:49:54.585308  [**] [1:10018:1] op.gg access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.111.128:53958 -> 175.207.14.130:80
+11/24/2020-08:49:54.846210  [**] [1:10051:1] naver.com tls access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.111.128:47226 -> 125.209.234.101:443
+11/24/2020-08:49:54.991579  [**] [1:10018:1] op.gg access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.111.128:36300 -> 1.201.138.254:80
+11/24/2020-08:49:55.208322  [**] [1:10018:1] op.gg access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.111.128:36300 -> 1.201.138.254:80
+11/24/2020-08:49:56.027856  [**] [1:10018:1] op.gg access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.111.128:53954 -> 175.207.14.130:80
+11/24/2020-08:49:56.027941  [**] [1:10018:1] op.gg access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.111.128:36300 -> 1.201.138.254:80
+11/24/2020-08:49:56.259250  [**] [1:10056:1] facebook.com tls access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.111.128:47396 -> 157.240.215.35:443
+11/24/2020-08:49:56.265166  [**] [1:10056:1] facebook.com tls access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.111.128:47398 -> 157.240.215.35:443
+11/24/2020-08:49:57.584267  [**] [1:10052:1] google.com tls access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.111.128:56592 -> 216.58.220.194:443
+11/24/2020-08:50:15.460777  [**] [1:10060:1] namu.wiki tls access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.111.128:43086 -> 104.16.180.45:443
+11/24/2020-08:50:34.461648  [**] [1:10007:1] tistory.com access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.111.128:41456 -> 121.53.105.234:80
+11/24/2020-08:50:34.478242  [**] [1:10057:1] tistory.com tls access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.111.128:39702 -> 121.53.105.234:443
+11/24/2020-08:50:34.618558  [**] [1:10007:1] tistory.com access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.111.128:41464 -> 121.53.105.234:80
+11/24/2020-08:50:34.637142  [**] [1:10057:1] tistory.com tls access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.111.128:39708 -> 121.53.105.234:443
+11/24/2020-08:50:35.451346  [**] [1:10054:1] daum.net tls access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.111.128:35696 -> 121.53.104.76:443
+11/24/2020-08:50:36.066318  [**] [1:10057:1] tistory.com tls access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.111.128:37670 -> 211.231.101.175:443
+11/24/2020-08:50:50.888090  [**] [1:10008:1] coupang.com access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.111.128:54962 -> 13.225.135.157:80
+11/24/2020-08:50:50.903170  [**] [1:10058:1] coupang.com tls access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.111.128:41210 -> 13.225.135.157:443
+11/24/2020-08:50:50.964939  [**] [1:10058:1] coupang.com tls access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.111.128:46516 -> 104.109.245.186:443
+11/24/2020-08:50:51.916534  [**] [1:10058:1] coupang.com tls access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.111.128:50292 -> 13.124.109.52:443
+11/24/2020-08:50:52.200689  [**] [1:10058:1] coupang.com tls access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.111.128:39268 -> 104.109.244.18:443
+11/24/2020-08:50:52.203747  [**] [1:10058:1] coupang.com tls access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.111.128:39266 -> 104.109.244.18:443
+11/24/2020-08:50:52.203914  [**] [1:10058:1] coupang.com tls access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.111.128:46554 -> 104.109.245.186:443
+11/24/2020-08:50:52.205557  [**] [1:10058:1] coupang.com tls access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.111.128:39264 -> 104.109.244.18:443
+11/24/2020-08:50:52.222933  [**] [1:10058:1] coupang.com tls access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.111.128:39274 -> 104.109.244.18:443
+11/24/2020-08:50:52.225986  [**] [1:10058:1] coupang.com tls access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.111.128:39272 -> 104.109.244.18:443
+11/24/2020-08:50:52.226279  [**] [1:10058:1] coupang.com tls access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.111.128:39270 -> 104.109.244.18:443
+11/24/2020-08:50:52.566503  [**] [1:10058:1] coupang.com tls access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.111.128:46576 -> 104.109.245.186:443
+11/24/2020-08:50:52.695435  [**] [1:10058:1] coupang.com tls access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.111.128:39288 -> 104.109.244.18:443
+11/24/2020-08:50:52.721270  [**] [1:10058:1] coupang.com tls access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.111.128:39290 -> 104.109.244.18:443
+11/24/2020-08:50:52.730693  [**] [1:10058:1] coupang.com tls access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.111.128:37582 -> 23.35.220.127:443
+11/24/2020-08:50:52.781982  [**] [1:10056:1] facebook.com tls access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.111.128:47612 -> 157.240.215.35:443
+11/24/2020-08:51:00.851957  [**] [1:10015:1] fmkorea.com access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.111.128:34800 -> 52.79.105.79:80
+11/24/2020-08:51:00.892191  [**] [1:10065:1] fmkorea.com tls access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.111.128:58862 -> 3.34.232.198:443
+11/24/2020-08:51:01.263522  [**] [1:10065:1] fmkorea.com tls access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.111.128:33970 -> 3.34.104.195:443
+11/24/2020-08:51:01.274020  [**] [1:10065:1] fmkorea.com tls access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.111.128:33976 -> 3.34.104.195:443
+11/24/2020-08:51:01.274186  [**] [1:10065:1] fmkorea.com tls access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.111.128:33974 -> 3.34.104.195:443
+11/24/2020-08:51:01.276038  [**] [1:10065:1] fmkorea.com tls access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.111.128:33980 -> 3.34.104.195:443
+11/24/2020-08:51:01.275908  [**] [1:10065:1] fmkorea.com tls access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.111.128:33972 -> 3.34.104.195:443
+11/24/2020-08:51:01.289344  [**] [1:10065:1] fmkorea.com tls access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.111.128:33978 -> 3.34.104.195:443
+11/24/2020-08:51:01.363084  [**] [1:10065:1] fmkorea.com tls access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.111.128:38782 -> 121.140.37.82:443
+11/24/2020-08:51:01.363230  [**] [1:10065:1] fmkorea.com tls access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.111.128:38784 -> 121.140.37.82:443
+11/24/2020-08:51:01.365185  [**] [1:10065:1] fmkorea.com tls access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.111.128:38780 -> 121.140.37.82:443
+11/24/2020-08:51:01.438588  [**] [1:10065:1] fmkorea.com tls access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.111.128:33990 -> 3.34.104.195:443
+11/24/2020-08:51:01.797059  [**] [1:10065:1] fmkorea.com tls access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.111.128:53294 -> 3.35.91.38:443
+11/24/2020-08:51:01.979979  [**] [1:10065:1] fmkorea.com tls access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.111.128:53296 -> 3.35.91.38:443
+11/24/2020-08:51:02.193462  [**] [1:10052:1] google.com tls access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.111.128:59176 -> 172.217.31.226:443
+11/24/2020-08:51:10.078062  [**] [1:10059:1] instagram.com tls access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.111.128:50412 -> 52.1.230.205:443
+11/24/2020-08:51:10.632259  [**] [1:10059:1] instagram.com tls access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.111.128:42772 -> 157.240.215.174:443
+11/24/2020-08:51:13.085941  [**] [1:10056:1] facebook.com tls access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.111.128:47670 -> 157.240.215.35:443
+11/24/2020-08:51:14.149152  [**] [1:10059:1] instagram.com tls access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.111.128:60826 -> 157.240.215.63:443
+11/24/2020-08:51:18.304084  [**] [1:10056:1] facebook.com tls access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.111.128:47674 -> 157.240.215.35:443
+11/24/2020-08:51:18.757358  [**] [1:10059:1] instagram.com tls access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.111.128:60830 -> 157.240.215.63:443
+11/24/2020-08:51:31.852644  [**] [1:10059:1] instagram.com tls access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.111.128:42798 -> 157.240.215.174:443
+11/24/2020-08:51:42.420979  [**] [1:10019:1] danawa.com access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.111.128:55388 -> 14.0.115.221:80
+11/24/2020-08:51:43.074798  [**] [1:10019:1] danawa.com access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.111.128:55388 -> 14.0.115.221:80
+11/24/2020-08:51:59.461283  [**] [1:10011:1] ppomppu.co.kr access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.111.128:54454 -> 110.45.151.153:80
+11/24/2020-08:51:59.560429  [**] [1:10011:1] ppomppu.co.kr access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.111.128:54456 -> 110.45.151.153:80
+11/24/2020-08:51:59.572437  [**] [1:10011:1] ppomppu.co.kr access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.111.128:56714 -> 110.45.151.210:80
+11/24/2020-08:51:59.572879  [**] [1:10011:1] ppomppu.co.kr access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.111.128:54454 -> 110.45.151.153:80
+11/24/2020-08:51:59.572921  [**] [1:10011:1] ppomppu.co.kr access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.111.128:56722 -> 110.45.151.210:80
+11/24/2020-08:51:59.573447  [**] [1:10011:1] ppomppu.co.kr access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.111.128:56718 -> 110.45.151.210:80
+11/24/2020-08:51:59.573461  [**] [1:10011:1] ppomppu.co.kr access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.111.128:56716 -> 110.45.151.210:80
+11/24/2020-08:51:59.574459  [**] [1:10011:1] ppomppu.co.kr access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.111.128:56720 -> 110.45.151.210:80
+11/24/2020-08:51:59.574755  [**] [1:10011:1] ppomppu.co.kr access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.111.128:56724 -> 110.45.151.210:80
+11/24/2020-08:51:59.594016  [**] [1:10011:1] ppomppu.co.kr access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.111.128:56720 -> 110.45.151.210:80
+11/24/2020-08:51:59.594068  [**] [1:10011:1] ppomppu.co.kr access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.111.128:56724 -> 110.45.151.210:80
+11/24/2020-08:51:59.594109  [**] [1:10011:1] ppomppu.co.kr access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.111.128:56716 -> 110.45.151.210:80
+11/24/2020-08:51:59.593755  [**] [1:10011:1] ppomppu.co.kr access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.111.128:56714 -> 110.45.151.210:80
+11/24/2020-08:51:59.596355  [**] [1:10011:1] ppomppu.co.kr access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.111.128:54456 -> 110.45.151.153:80
+11/24/2020-08:51:59.598934  [**] [1:10011:1] ppomppu.co.kr access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.111.128:54454 -> 110.45.151.153:80
+11/24/2020-08:51:59.605346  [**] [1:10011:1] ppomppu.co.kr access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.111.128:56724 -> 110.45.151.210:80
+11/24/2020-08:51:59.608420  [**] [1:10011:1] ppomppu.co.kr access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.111.128:56714 -> 110.45.151.210:80
+11/24/2020-08:51:59.649288  [**] [1:10011:1] ppomppu.co.kr access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.111.128:56720 -> 110.45.151.210:80
+11/24/2020-08:51:59.857415  [**] [1:10011:1] ppomppu.co.kr access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.111.128:54456 -> 110.45.151.153:80
+11/24/2020-08:51:59.857463  [**] [1:10011:1] ppomppu.co.kr access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.111.128:54454 -> 110.45.151.153:80
+11/24/2020-08:51:59.860966  [**] [1:10011:1] ppomppu.co.kr access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.111.128:56728 -> 110.45.151.210:80
+11/24/2020-08:51:59.861581  [**] [1:10011:1] ppomppu.co.kr access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.111.128:56732 -> 110.45.151.210:80
+11/24/2020-08:51:59.861694  [**] [1:10011:1] ppomppu.co.kr access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.111.128:56730 -> 110.45.151.210:80
+11/24/2020-08:51:59.861613  [**] [1:10011:1] ppomppu.co.kr access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.111.128:56726 -> 110.45.151.210:80
+11/24/2020-08:51:59.873707  [**] [1:10011:1] ppomppu.co.kr access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.111.128:54456 -> 110.45.151.153:80
+11/24/2020-08:51:59.873779  [**] [1:10011:1] ppomppu.co.kr access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.111.128:54488 -> 110.45.151.153:80
+11/24/2020-08:51:59.873753  [**] [1:10011:1] ppomppu.co.kr access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.111.128:56728 -> 110.45.151.210:80
+11/24/2020-08:51:59.873800  [**] [1:10011:1] ppomppu.co.kr access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.111.128:54486 -> 110.45.151.153:80
+11/24/2020-08:51:59.876912  [**] [1:10011:1] ppomppu.co.kr access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.111.128:54484 -> 110.45.151.153:80
+11/24/2020-08:51:59.876943  [**] [1:10011:1] ppomppu.co.kr access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.111.128:54482 -> 110.45.151.153:80
+11/24/2020-08:51:59.878404  [**] [1:10011:1] ppomppu.co.kr access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.111.128:54456 -> 110.45.151.153:80
+11/24/2020-08:51:59.878983  [**] [1:10011:1] ppomppu.co.kr access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.111.128:56726 -> 110.45.151.210:80
+11/24/2020-08:51:59.884437  [**] [1:10011:1] ppomppu.co.kr access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.111.128:56734 -> 110.45.151.210:80
+11/24/2020-08:51:59.883633  [**] [1:10011:1] ppomppu.co.kr access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.111.128:54456 -> 110.45.151.153:80
+11/24/2020-08:51:59.887011  [**] [1:10011:1] ppomppu.co.kr access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.111.128:56728 -> 110.45.151.210:80
+11/24/2020-08:51:59.888925  [**] [1:10011:1] ppomppu.co.kr access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.111.128:56730 -> 110.45.151.210:80
+11/24/2020-08:51:59.890029  [**] [1:10011:1] ppomppu.co.kr access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.111.128:49266 -> 175.126.57.245:80
+11/24/2020-08:51:59.888458  [**] [1:10011:1] ppomppu.co.kr access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.111.128:56732 -> 110.45.151.210:80
+11/24/2020-08:51:59.889468  [**] [1:10011:1] ppomppu.co.kr access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.111.128:56726 -> 110.45.151.210:80
+11/24/2020-08:51:59.900259  [**] [1:10011:1] ppomppu.co.kr access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.111.128:56726 -> 110.45.151.210:80
+11/24/2020-08:51:59.904744  [**] [1:10011:1] ppomppu.co.kr access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.111.128:49266 -> 175.126.57.245:80
+11/24/2020-08:51:59.904361  [**] [1:10011:1] ppomppu.co.kr access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.111.128:49268 -> 175.126.57.245:80
+11/24/2020-08:51:59.941284  [**] [1:10011:1] ppomppu.co.kr access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.111.128:56730 -> 110.45.151.210:80
+11/24/2020-08:51:59.941366  [**] [1:10011:1] ppomppu.co.kr access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.111.128:56732 -> 110.45.151.210:80
+11/24/2020-08:51:59.941451  [**] [1:10011:1] ppomppu.co.kr access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.111.128:56728 -> 110.45.151.210:80
+11/24/2020-08:51:59.941422  [**] [1:10011:1] ppomppu.co.kr access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.111.128:56734 -> 110.45.151.210:80
+11/24/2020-08:51:59.946666  [**] [1:10011:1] ppomppu.co.kr access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.111.128:56722 -> 110.45.151.210:80
+11/24/2020-08:51:59.956266  [**] [1:10011:1] ppomppu.co.kr access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.111.128:56718 -> 110.45.151.210:80
+11/24/2020-08:52:00.005441  [**] [1:10011:1] ppomppu.co.kr access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.111.128:56714 -> 110.45.151.210:80
+11/24/2020-08:52:00.005738  [**] [1:10011:1] ppomppu.co.kr access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.111.128:56716 -> 110.45.151.210:80
+11/24/2020-08:52:00.005641  [**] [1:10011:1] ppomppu.co.kr access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.111.128:56724 -> 110.45.151.210:80
+11/24/2020-08:52:00.040405  [**] [1:10011:1] ppomppu.co.kr access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.111.128:56722 -> 110.45.151.210:80
+11/24/2020-08:52:00.054335  [**] [1:10011:1] ppomppu.co.kr access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.111.128:49268 -> 175.126.57.245:80
+11/24/2020-08:52:00.057239  [**] [1:10011:1] ppomppu.co.kr access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.111.128:49266 -> 175.126.57.245:80
+11/24/2020-08:52:00.072713  [**] [1:10011:1] ppomppu.co.kr access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.111.128:49270 -> 175.126.57.245:80
+11/24/2020-08:52:00.084610  [**] [1:10011:1] ppomppu.co.kr access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.111.128:49266 -> 175.126.57.245:80
+11/24/2020-08:52:00.088482  [**] [1:10011:1] ppomppu.co.kr access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.111.128:49272 -> 175.126.57.245:80
+11/24/2020-08:52:00.089159  [**] [1:10011:1] ppomppu.co.kr access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.111.128:49276 -> 175.126.57.245:80
+11/24/2020-08:52:00.091941  [**] [1:10011:1] ppomppu.co.kr access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.111.128:49274 -> 175.126.57.245:80
+11/24/2020-08:52:00.101227  [**] [1:10011:1] ppomppu.co.kr access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.111.128:49270 -> 175.126.57.245:80
+11/24/2020-08:52:00.110769  [**] [1:10011:1] ppomppu.co.kr access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.111.128:49274 -> 175.126.57.245:80
+11/24/2020-08:52:00.213859  [**] [1:10011:1] ppomppu.co.kr access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.111.128:56722 -> 110.45.151.210:80
+11/24/2020-08:52:00.214655  [**] [1:10011:1] ppomppu.co.kr access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.111.128:56718 -> 110.45.151.210:80
+11/24/2020-08:52:00.270406  [**] [1:10011:1] ppomppu.co.kr access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.111.128:49270 -> 175.126.57.245:80
+11/24/2020-08:52:00.270468  [**] [1:10011:1] ppomppu.co.kr access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.111.128:49274 -> 175.126.57.245:80
+11/24/2020-08:52:00.274798  [**] [1:10011:1] ppomppu.co.kr access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.111.128:49268 -> 175.126.57.245:80
+11/24/2020-08:52:00.291062  [**] [1:10011:1] ppomppu.co.kr access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.111.128:49268 -> 175.126.57.245:80
+11/24/2020-08:52:00.294321  [**] [1:10011:1] ppomppu.co.kr access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.111.128:49274 -> 175.126.57.245:80
+11/24/2020-08:52:00.295701  [**] [1:10011:1] ppomppu.co.kr access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.111.128:49270 -> 175.126.57.245:80
+11/24/2020-08:52:00.337071  [**] [1:10051:1] naver.com tls access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.111.128:33254 -> 223.130.195.31:443
+11/24/2020-08:52:00.415959  [**] [1:10011:1] ppomppu.co.kr access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.111.128:56728 -> 110.45.151.210:80
+11/24/2020-08:52:00.419355  [**] [1:10011:1] ppomppu.co.kr access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.111.128:56726 -> 110.45.151.210:80
+11/24/2020-08:52:00.489184  [**] [1:10011:1] ppomppu.co.kr access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.111.128:55596 -> 172.217.161.130:80
+11/24/2020-08:52:00.507104  [**] [1:10011:1] ppomppu.co.kr access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.111.128:40364 -> 216.58.200.66:80
+11/24/2020-08:52:01.103400  [**] [1:10052:1] google.com tls access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.111.128:58764 -> 172.217.26.130:443
+11/24/2020-08:52:01.907297  [**] [1:10061:1] ppomppu.co.kr tls access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.111.128:55298 -> 110.45.151.210:443
+11/24/2020-08:52:09.721675  [**] [1:10012:1] gmarket.co.kr access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.111.128:40320 -> 117.52.47.78:80
+11/24/2020-08:52:09.753922  [**] [1:10012:1] gmarket.co.kr access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.111.128:54832 -> 183.111.134.78:80
+11/24/2020-08:52:09.772683  [**] [1:10062:1] gmarket.co.kr tls access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.111.128:58832 -> 183.111.134.78:443
+11/24/2020-08:52:10.212881  [**] [1:10062:1] gmarket.co.kr tls access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.111.128:48298 -> 211.174.53.186:443
+11/24/2020-08:52:10.217156  [**] [1:10062:1] gmarket.co.kr tls access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.111.128:48302 -> 211.174.53.186:443
+11/24/2020-08:52:10.218652  [**] [1:10062:1] gmarket.co.kr tls access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.111.128:48300 -> 211.174.53.186:443
+11/24/2020-08:52:10.223081  [**] [1:10062:1] gmarket.co.kr tls access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.111.128:48304 -> 211.174.53.186:443
+11/24/2020-08:52:10.265201  [**] [1:10062:1] gmarket.co.kr tls access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.111.128:49338 -> 211.115.108.199:443
+11/24/2020-08:52:10.272939  [**] [1:10062:1] gmarket.co.kr tls access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.111.128:49332 -> 211.115.108.199:443
+11/24/2020-08:52:10.275362  [**] [1:10062:1] gmarket.co.kr tls access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.111.128:49330 -> 211.115.108.199:443
+11/24/2020-08:52:10.276771  [**] [1:10062:1] gmarket.co.kr tls access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.111.128:43372 -> 211.115.108.200:443
+11/24/2020-08:52:10.298473  [**] [1:10062:1] gmarket.co.kr tls access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.111.128:49336 -> 211.115.108.199:443
+11/24/2020-08:52:10.303524  [**] [1:10062:1] gmarket.co.kr tls access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.111.128:49334 -> 211.115.108.199:443
+11/24/2020-08:52:10.393527  [**] [1:10062:1] gmarket.co.kr tls access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.111.128:43378 -> 211.115.108.200:443
+11/24/2020-08:52:10.393662  [**] [1:10062:1] gmarket.co.kr tls access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.111.128:43376 -> 211.115.108.200:443
+11/24/2020-08:52:10.401478  [**] [1:10062:1] gmarket.co.kr tls access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.111.128:43374 -> 211.115.108.200:443
+11/24/2020-08:52:10.401579  [**] [1:10062:1] gmarket.co.kr tls access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.111.128:48330 -> 211.174.53.186:443
+11/24/2020-08:52:10.410418  [**] [1:10062:1] gmarket.co.kr tls access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.111.128:57730 -> 117.52.47.204:443
+11/24/2020-08:52:10.415045  [**] [1:10062:1] gmarket.co.kr tls access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.111.128:57728 -> 117.52.47.204:443
+11/24/2020-08:52:10.432763  [**] [1:10062:1] gmarket.co.kr tls access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.111.128:57726 -> 117.52.47.204:443
+11/24/2020-08:52:10.433190  [**] [1:10062:1] gmarket.co.kr tls access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.111.128:48332 -> 211.174.53.186:443
+11/24/2020-08:52:10.841781  [**] [1:10062:1] gmarket.co.kr tls access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.111.128:45488 -> 183.111.150.200:443
+11/24/2020-08:52:11.483154  [**] [1:10012:1] gmarket.co.kr access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.111.128:46526 -> 211.115.108.200:80
+11/24/2020-08:52:12.822509  [**] [1:10062:1] gmarket.co.kr tls access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.111.128:35652 -> 117.52.47.36:443
+11/24/2020-08:52:12.824126  [**] [1:10062:1] gmarket.co.kr tls access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.111.128:45502 -> 183.111.150.200:443
+11/24/2020-08:52:13.222810  [**] [1:10062:1] gmarket.co.kr tls access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.111.128:45456 -> 183.111.134.82:443
+11/24/2020-08:52:13.530022  [**] [1:10062:1] gmarket.co.kr tls access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.111.128:60662 -> 117.52.47.200:443
+11/24/2020-08:53:24.432943  [**] [1:10052:1] google.com tls access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.111.128:45448 -> 216.58.199.14:443
+11/24/2020-08:53:24.443317  [**] [1:10052:1] google.com tls access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.111.128:57224 -> 216.58.200.14:443
+11/24/2020-08:53:24.515618  [**] [1:10052:1] google.com tls access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.111.128:50692 -> 172.217.24.194:443
+11/24/2020-08:53:28.530097  [**] [1:10013:1] twitch.tv access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.111.128:48660 -> 151.101.66.167:80
+11/24/2020-08:53:28.659166  [**] [1:10063:1] twitch.tv tls access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.111.128:58542 -> 151.101.66.167:443
+11/24/2020-08:53:28.955106  [**] [1:10063:1] twitch.tv tls access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.111.128:48446 -> 151.101.230.167:443
+11/24/2020-08:53:30.277695  [**] [1:10063:1] twitch.tv tls access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.111.128:47164 -> 54.187.66.97:443
+11/24/2020-08:53:30.736500  [**] [1:10063:1] twitch.tv tls access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.111.128:38516 -> 44.241.251.43:443
+11/24/2020-08:53:30.775848  [**] [1:10063:1] twitch.tv tls access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.111.128:48468 -> 151.101.230.167:443
+11/24/2020-08:53:30.802661  [**] [1:10063:1] twitch.tv tls access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.111.128:48470 -> 151.101.230.167:443
+11/24/2020-08:53:33.123402  [**] [1:10063:1] twitch.tv tls access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.111.128:35176 -> 151.101.230.214:443
+11/24/2020-08:53:33.161842  [**] [1:10063:1] twitch.tv tls access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.111.128:35174 -> 151.101.230.214:443
+11/24/2020-08:53:33.446927  [**] [1:10063:1] twitch.tv tls access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.111.128:50928 -> 52.24.26.190:443
+11/24/2020-08:53:34.596524  [**] [1:10056:1] facebook.com tls access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.111.128:47988 -> 157.240.215.35:443
+11/24/2020-08:54:28.212960  [**] [1:10066:1] clien.net tls access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.111.128:50730 -> 220.242.165.62:443
+11/24/2020-08:54:28.427774  [**] [1:10066:1] clien.net tls access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.111.128:47028 -> 219.251.142.13:443
+11/24/2020-08:54:28.560921  [**] [1:10066:1] clien.net tls access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.111.128:47030 -> 219.251.142.13:443
+11/24/2020-08:54:28.563434  [**] [1:10066:1] clien.net tls access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.111.128:47032 -> 219.251.142.13:443
+11/24/2020-08:54:28.565288  [**] [1:10066:1] clien.net tls access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.111.128:47034 -> 219.251.142.13:443
+11/24/2020-08:54:28.568409  [**] [1:10066:1] clien.net tls access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.111.128:47038 -> 219.251.142.13:443
+11/24/2020-08:54:28.571458  [**] [1:10066:1] clien.net tls access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.111.128:47036 -> 219.251.142.13:443
+11/24/2020-08:54:28.669335  [**] [1:10066:1] clien.net tls access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.111.128:60872 -> 175.126.113.145:443
+11/24/2020-08:54:28.669445  [**] [1:10066:1] clien.net tls access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.111.128:60880 -> 175.126.113.145:443
+11/24/2020-08:54:28.669194  [**] [1:10066:1] clien.net tls access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.111.128:60874 -> 175.126.113.145:443
+11/24/2020-08:54:28.669535  [**] [1:10066:1] clien.net tls access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.111.128:60878 -> 175.126.113.145:443
+11/24/2020-08:54:28.678752  [**] [1:10066:1] clien.net tls access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.111.128:60876 -> 175.126.113.145:443
+11/24/2020-08:54:29.129073  [**] [1:10066:1] clien.net tls access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.111.128:60884 -> 175.126.113.145:443
+11/24/2020-08:54:30.322344  [**] [1:10052:1] google.com tls access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.111.128:57186 -> 216.58.220.194:443
+11/24/2020-08:54:32.145066  [**] [1:10017:1] nate.com access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.111.128:50788 -> 120.50.132.112:80
+11/24/2020-08:54:32.272678  [**] [1:10067:1] nate.com tls access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.111.128:52330 -> 120.50.131.112:443
+11/24/2020-08:54:32.362283  [**] [1:10067:1] nate.com tls access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.111.128:52332 -> 120.50.131.112:443
+11/24/2020-08:54:32.367422  [**] [1:10067:1] nate.com tls access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.111.128:52334 -> 120.50.131.112:443
+11/24/2020-08:54:32.410073  [**] [1:10067:1] nate.com tls access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.111.128:52336 -> 120.50.131.112:443
+11/24/2020-08:54:32.425911  [**] [1:10067:1] nate.com tls access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.111.128:52338 -> 120.50.131.112:443
+11/24/2020-08:54:32.505717  [**] [1:10067:1] nate.com tls access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.111.128:44550 -> 203.226.255.37:443
+11/24/2020-08:54:32.507439  [**] [1:10067:1] nate.com tls access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.111.128:44546 -> 203.226.255.37:443
+11/24/2020-08:54:32.526387  [**] [1:10067:1] nate.com tls access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.111.128:44542 -> 203.226.255.37:443
+11/24/2020-08:54:32.528347  [**] [1:10067:1] nate.com tls access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.111.128:44544 -> 203.226.255.37:443
+11/24/2020-08:54:32.532928  [**] [1:10067:1] nate.com tls access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.111.128:44552 -> 203.226.255.37:443
+11/24/2020-08:54:32.549727  [**] [1:10067:1] nate.com tls access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.111.128:44548 -> 203.226.255.37:443
+11/24/2020-08:54:32.553069  [**] [1:10067:1] nate.com tls access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.111.128:50446 -> 120.50.129.111:443
+11/24/2020-08:54:32.654892  [**] [1:10067:1] nate.com tls access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.111.128:43004 -> 120.50.129.110:443
+11/24/2020-08:54:32.816313  [**] [1:10067:1] nate.com tls access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.111.128:36820 -> 203.226.255.11:443
+11/24/2020-08:54:32.818204  [**] [1:10067:1] nate.com tls access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.111.128:36818 -> 203.226.255.11:443
+11/24/2020-08:54:32.818959  [**] [1:10067:1] nate.com tls access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.111.128:36822 -> 203.226.255.11:443
+11/24/2020-08:54:32.823111  [**] [1:10067:1] nate.com tls access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.111.128:36824 -> 203.226.255.11:443
+11/24/2020-08:54:32.829843  [**] [1:10067:1] nate.com tls access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.111.128:36826 -> 203.226.255.11:443
+11/24/2020-08:54:32.869234  [**] [1:10067:1] nate.com tls access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.111.128:52382 -> 120.50.131.112:443
+11/24/2020-08:54:32.899425  [**] [1:10067:1] nate.com tls access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.111.128:46966 -> 203.226.255.7:443
+11/24/2020-08:54:34.485349  [**] [1:10067:1] nate.com tls access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.111.128:57280 -> 211.234.242.149:443
+11/24/2020-08:54:36.176564  [**] [1:10020:1] gilgil.net access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.111.128:57708 -> 175.213.35.39:80
+11/24/2020-08:54:36.208466  [**] [1:10020:1] gilgil.net access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.111.128:57708 -> 175.213.35.39:80
